@@ -1,0 +1,70 @@
+.Span{
+    color: sandybrown;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.flesible-cont{
+    display: flex;
+    margin-bottom: 20%;
+}
+.express{
+    width: 600px;
+    padding-left: 5%;
+}
+.express img{
+    width: 300px;
+    padding-right: 50%;
+}
+
+.Button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(255, 166, 0, 0.37), red);
+    color: white;
+    padding: 10px 30px;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+.Another-p{
+    width:50%;
+    height: 20%;
+    
+}
+.Another-p img{
+    background-image: url(images/Frame\ 57.jpg);
+}
+
+}
+
+
+
+    
+}
+.pra-gb{
+    width: 300px;
+    padding: 2%;
+    margin:5px;
+    display: flex;
+    text-align: start;
+
+}
+.Abr-tg{
+    display: flex;
+    margin: 10px;
+}
+.item{
+    width: 50%;
+    padding-left: 5%;
+    text-align: top;
+}
+.cls{
+    width: 30%;
+    padding: 2%;
+    height: 40px;
+
+}
+
+
+
+
